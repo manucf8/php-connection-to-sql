@@ -1,0 +1,25 @@
+* {
+  font-family:Tahoma, sans-serif;
+}
+.formStyle {
+  background-color: #8fcfff;
+  width: 50%;
+  padding: 5px; 
+  border: 2px solid #1d81cd;
+  border-radius: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+th, td {
+  border: 1px solid #f5b6ff;
+  text-align: left;
+  padding: 5px;
+}
+th {
+  background-color: #f5b6ff;
+}
+tr{
+  background-color: #fef4ff;
+}
